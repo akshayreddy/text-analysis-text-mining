@@ -16,6 +16,6 @@ import the below jar files
 We have used:
 
 Apache open NLP
-Stanford posttagger
+Stanford POS tagger
 
 A input folder is given.
